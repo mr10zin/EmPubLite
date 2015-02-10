@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tenzin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\pre-dexed\debug\gson-2.3.1-949ca40d2db4fcfdb9bb788e9cebc08e52c559fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e064509385f0670670e42396ddf635fa941f953e.jar" />
+    </item>
+    <item
+        jar="C:\Users\tenzin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-71ef9dc9cbf5d3495b0f63e0f43812ac514e202e.jar" />
+    </item>
+    <item
+        jar="C:\Users\tenzin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0-48e8189626406c5e1e998017f713b6c7293f4d13.jar" />
+    </item>
+    <item
+        jar="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-698e442b1bc55215f02699ad4e54e29164b7dce6.jar" />
+    </item>
+    <item
+        jar="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\pre-dexed\debug\classes-fcd9f2d4a0af0360fed2e3d33dffa7f790d5d03b.jar" />
+    </item>
+    <item
+        jar="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\pre-dexed\debug\classes-28e4dec685ee16feb0c39379cf9a25ad3fa4d35d.jar" />
+    </item>
+    <item
+        jar="C:\Users\tenzin\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\tenzin\Documents\Android Projects Temp\EmPubLite\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-4759cae3327bcc75ada54a1ae7f3aca4ed02a07b.jar" />
+    </item>
+
+</items>
